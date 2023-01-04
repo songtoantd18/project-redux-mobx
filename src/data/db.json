@@ -1,0 +1,39 @@
+{
+  "todoItems": [
+    {
+      "id": 0,
+
+      "title": "Learn Basic React",
+
+      "creator": "Hoang Loc",
+
+      "description": "Learn in 4 week",
+
+      "status": "Done"
+    },
+
+    {
+      "id": 1,
+
+      "title": "Learn React Router",
+
+      "creator": "Hoang Loc",
+
+      "description": "Learn in 3 days",
+
+      "status": "Doing"
+    },
+
+    {
+      "id": 2,
+
+      "title": "React Context",
+
+      "creator": "Hoang Loc",
+
+      "description": "Learn in 3 days",
+
+      "status": "New"
+    }
+  ]
+}
